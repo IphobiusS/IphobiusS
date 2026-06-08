@@ -4,7 +4,7 @@
 
 Offensive security practitioner focused on **web application exploitation**, **Active Directory compromise across multi-forest environments**, and **AI Red Teaming on LLMs**. I work end-to-end attack chains — from unauthenticated access to Domain/Enterprise Admin — and document findings with professional reporting under PTES and OWASP methodologies (CVSS 3.1 / CWE).
 
-Currently studying **Ingeniería en Ciberseguridad** and building offensive tooling in Python.
+Currently studying a **Cybersecurity Engineering** degree and building offensive tooling in Python.
 
 ---
 
